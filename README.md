@@ -1,0 +1,2 @@
+# CSE392_QLDA
+Thư mục môn QLDA CNTT
